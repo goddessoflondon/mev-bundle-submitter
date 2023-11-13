@@ -43,6 +43,9 @@ export class MEVBundleSubmitter {
     eden: {
       url: "https://api.edennetwork.io/v1/bundle",
     },
+    loki: {
+      url: "https://rpc.lokibuilder.xyz",
+    },
   };
 
   /**
